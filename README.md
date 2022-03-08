@@ -1,4 +1,4 @@
-![Pokémon](http://distil-pkmon.francecentral.azurecontainer.io/)
+<img src="http://distil-pkmon.francecentral.azurecontainer.io/" width="480" height="432" />
 
 [A](http://distil-pkmon.francecentral.azurecontainer.io/press?key=A)
 [B](http://distil-pkmon.francecentral.azurecontainer.io/press?key=B)
