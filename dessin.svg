@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg width="174.14035mm" height="130.44209mm" viewBox="0 0 174.14035 130.44209" version="1.1" id="svg5" xmlns="http://www.w3.org/2000/svg" xmlns:svg="http://www.w3.org/2000/svg">
+   <defs id="defs2" />
+   <g id="layer1" transform="translate(-16.664589,-40.365337)">
+      <a href="https://google.fr">
+         <circle style="fill:#ff0000;stroke-width:0.79375" id="path846" cx="85.915207" cy="61.473816" r="21.108479" />
+      </a>
+
+      <a href="https://microsoft.com">
+         <rect style="fill:#ff0000;stroke-width:0.79375" id="rect870" width="45.17955" height="45.17955" x="16.664589" y="111.09725" />
+      </a>
+      <a href="https://duckduckgo.org">
+         <rect style="fill:#ff0000;stroke-width:0.79375" id="rect872" width="54.067329" height="54.067329" x="174.59756" y="-41.174034" transform="rotate(45)" />
+      </a>
+   </g>
+</svg>
