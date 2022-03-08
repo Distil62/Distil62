@@ -12,3 +12,8 @@
 
 [START](http://distil-pkmon.francecentral.azurecontainer.io/press?key=START)
 [SELECT](http://distil-pkmon.francecentral.azurecontainer.io/press?key=SELECT)
+
+
+# Jouer à pokémon version OR
+Appuyer sur les liens pour envoyer une touche au jeu.
+Faite F5 pour spammer cette même touche.
