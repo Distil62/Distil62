@@ -17,3 +17,6 @@
 # Jouer à pokémon version OR
 Appuyer sur les liens pour envoyer une touche au jeu.
 Faite F5 pour spammer cette même touche.
+
+
+[A](http://localhost:3000/press?key=A)
