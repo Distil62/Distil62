@@ -46,7 +46,6 @@
     </a>
       <img src="line_3_5_180x74.png" width="55" height="25" />
 </p>
-<img src="line_4_953x43.png" width="313" height="14" />
 <p float="left">
   <img src="line_5_1_381x29.png" width="122" height="9" />
     <a href="http://distil-pkmon.francecentral.azurecontainer.io/press?key=SELECT">
