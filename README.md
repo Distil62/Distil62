@@ -2,7 +2,7 @@
 <img src="top_953x135.png" width="317" height="45" />
 <p float="left">
 <img src="topleft_173x547.png" width="54" height="202" />
-<img src="http://distil-pkmon.francecentral.azurecontainer.io/?token=sdfsdfsdf" width="202" height="202" />
+<img src="http://distil-pkmon.francecentral.azurecontainer.io/?token=sdfsdfsdf" width="202" height="202" error="https://raw.githubusercontent.com/Distil62/Distil62/main/error_gameboy.webp" />
 <img src="topright_173x545.png" width="54" height="202" />
 </p>
 <img src="middle_952x154.png" width="317" height="51" />
